@@ -17,4 +17,4 @@ services:
 networks:
   swag_network:
     external: true
-    name: swag_default
+    name: swag_network
